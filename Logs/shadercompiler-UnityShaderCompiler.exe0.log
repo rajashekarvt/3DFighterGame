@@ -1,0 +1,4 @@
+Base path: 'E:/Game Development/Editor/Data', plugins path 'E:/Game Development/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+
+Cmd: shutdown
